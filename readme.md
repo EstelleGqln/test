@@ -1,5 +1,3 @@
-# Hi
+# Welcome to my local repository
 
-# Hello
-
-# Salut
+This message should only appear on the main branch.
